@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I'm 20 y/o<br>📚 I'm currently in my 8th semester of my career<br>🎯 Exceptional coworker<br>🧽 I code as clean as possible</p>
+<p align="left">✨ I'm 21 y/o<br>📚 I'm currently in my 8th semester of my career<br>🎯 Exceptional coworker<br>🧽 I code as clean as possible</p>
 
 ###
 
