@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">Hey there, I am Camilo Mora from Colombia. A systems engineering student focused on frontend development.<br>I am making my way in the working world. Looking for a job that allows me to expand my experiences and knowledge in this that I am passionate about which is coding 💜💻.<br><br>Do not hesitate to contact me if you need an exceptional co-worker.</p>
+<p align="left">
+  Hey there, I am Camilo Mora from Colombia — a Systems Engineering student and passionate Fullstack Developer.<br>
+  I am currently building my career and seeking opportunities that allow me to grow, learn, and contribute through what I love most: coding 💜💻.<br><br>
+  I specialize in both frontend and backend development, and I'm always looking forward to exciting challenges that help me improve as a developer and teammate.<br><br>
+  Do not hesitate to contact me if you're looking for a committed, proactive, and skilled collaborator!
+</p>
 
 ###
 
